@@ -9,8 +9,6 @@ These settings are not science based or anything but just my own preferences. It
 
 This theme should work for different Languages and also different Products from Jetbrains.
 
+![java-1](https://github.com/pol3waf/darcula-autumn-intellij-theme/assets/3944892/342c457b-2928-4dc6-8a7c-e5e80c648894)
 
-![image](https://github.com/pol3waf/intellij-darcula-autumn/assets/3944892/bab6db96-c1bf-4b7d-ae8f-60f8c90f5ac5)
-
-![image](https://github.com/pol3waf/intellij-darcula-autumn/assets/3944892/ae29db5b-9854-4162-be9e-a64b4dbb3576)
-
+![java-2](https://github.com/pol3waf/darcula-autumn-intellij-theme/assets/3944892/ce99d039-4430-4e7d-96a9-7ba09646ae27)
